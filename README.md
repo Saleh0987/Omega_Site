@@ -1,6 +1,6 @@
 ## Omega
 
-### Multilingual-Websites 
+### Multilingual-Website
 
 # Topics
 
