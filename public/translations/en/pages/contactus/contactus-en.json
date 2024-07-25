@@ -1,0 +1,35 @@
+{
+  "contactsPage": {
+    "contactLanding": {
+      "header": "Let’s send us message",
+      "paragraph": "You can know more about us and our works, we you write your email and send us a message."
+    },
+    "contactItems": [
+      {
+        "id": "contactItem1",
+        "itemHeader": "Phone",
+        "contactAddress": "+20111 111 1111"
+      },
+      {
+        "id": "contactItem2",
+        "itemHeader": "Gmail",
+        "contactAddress": "test@omegastream.net"
+      },
+      {
+        "id": "contactItem3",
+        "itemHeader": "WhatsApp",
+        "contactAddress": "+20111 111 1111 /  +20111 111 1111"
+      }
+    ],
+    "contactForm": {
+      "fromHeader": "Or fill this form",
+      "fromParagraph": "You can know more about us and our works, we you write your email and send us a message.",
+      "fromPlaceholder": {
+        "name": "Enter your name",
+        "email": "Enter your email",
+        "message": "Your Message Here"
+      },
+      "fromBtn": "Send Message"
+    }
+  }
+}
